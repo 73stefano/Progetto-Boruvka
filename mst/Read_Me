@@ -1,0 +1,23 @@
+ho risolto il problema di riordinare la lista di boruvka cosi eè
+confrontabile con Kruskal
+
+nel buldGraph l'ho modificato ora crea nodi distinti e poi nodi in random
+perturbati
+
+ho risolto il problema arco A -> A
+
+nella funzione Prova_boruvka cioè nel parsers bisogna passare i valori
+
+        nodi cioè un intero > 0
+
+        archi cioè int > 0
+
+        e -r  oppure --random per mettere il flag a true
+
+        -h oppure --help per -------> help
+
+		——— ricordatevi di sistemare gli impor come l’altra volta———
+   
+
+    ————lasciami uno spaziato nella relazione sto provando e spero che mi riesca a modi—
+		——fidare Bovuvka per archi di peso uguale__________
